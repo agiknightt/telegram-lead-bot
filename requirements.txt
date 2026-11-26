@@ -1,0 +1,7 @@
+aiogram
+python-dotenv
+sqlalchemy[asyncio]
+asyncpg
+alembic
+pandas
+openpyxl
