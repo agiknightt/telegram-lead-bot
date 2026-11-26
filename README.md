@@ -32,6 +32,6 @@ Telegram-бот для сбора заявок (Lead Bot)
    ```bash
    docker compose up --build -d
    ```
-
 📸 Демонстрация работы
+
 <img width="523" height="988" alt="telegram_bot" src="https://github.com/user-attachments/assets/abe584b5-6bee-44f5-bc98-f9d3db3bab4a" />
